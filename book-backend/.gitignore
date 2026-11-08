@@ -1,0 +1,12 @@
+# Python 相关
+__pycache__/
+*.sqlite
+instance/
+.pytest_cache/
+
+# Node/Vue 相关
+node_modules/
+dist/
+
+# 编辑器相关
+.vscode/
